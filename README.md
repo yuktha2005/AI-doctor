@@ -1,2 +1,2 @@
 # Med-IntelX
-A smart Medical Chatbot using vision and voice
+A smart Medical Chatbot 
